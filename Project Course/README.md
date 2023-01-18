@@ -1,1 +1,1 @@
-# _Project Allocation_ : [NETFLIX-CLONE-MERN](https://github.com/Nguyenle23/netflix-mern)
+# _Project Allocation_ : [WAD-Project-Course](https://github.com/Nguyenle23/WAD-Project-Course)
